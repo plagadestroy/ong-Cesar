@@ -1,0 +1,48 @@
+h1{
+    color:brown;
+    font-size: 45px;
+    text-align: center;
+}
+
+/*selector de clase */
+
+.titulo{
+    color:#2e0120;
+    font-size: 80px;
+    text-align: center;
+}
+
+.parrafo1{
+    text-align: center;
+    color:rgb(82, 83, 85);
+    font-size: 40px;
+}
+
+.parrafo2{
+    text-align: center;
+    color:blueviolet;
+    font-size:18px;
+}
+
+.cemter{
+    text-align: center;
+    color:blueviolet;
+    font-size:45px;
+}
+
+
+img{
+    width: 50%;}
+
+
+    body{background-color: rgb(204, 216, 255);}
+
+    table{
+        width: 80%;
+    }
+
+    td{width: 60%;
+       text-align: center;
+       vertical-align: middle;
+    
+    }
